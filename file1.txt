@@ -1,1 +1,4 @@
-Prajwal Sam BT21CSE015
+Prajwal Sam
+major: Computer science and engg
+fav rest: bawarchi
+fav movie: avengers
