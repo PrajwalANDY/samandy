@@ -2,3 +2,4 @@ Prajwal Sam
 major: Computer science and engg
 fav rest: bawarchi
 fav movie: avengers
+fav color : blue
